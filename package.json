@@ -1,0 +1,35 @@
+{
+  "name": "gulp-simple-frontend",
+  "version": "1.0.0",
+  "description": "gulp simple frontend sass+browsersync\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D toolkit\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[Csass+browsersync",
+  "main": "index.js",
+  "scripts": {
+    "serve": "gulp",
+    "build": "gulp build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Max119/gulp-simple-frontend.git"
+  },
+  "keywords": [
+    "gulp",
+    "sass",
+    "browsersync"
+  ],
+  "author": "Max Belousov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Max119/gulp-simple-frontend/issues"
+  },
+  "homepage": "https://github.com/Max119/gulp-simple-frontend#readme",
+  "devDependencies": {
+    "browser-sync": "^2.24.7",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp-clean": "^0.4.0",
+    "gulp-csso": "^3.0.1",
+    "gulp-sass": "^4.0.1",
+    "gulp-sourcemaps": "^2.6.4",
+    "run-sequence": "^2.2.1"
+  }
+}
