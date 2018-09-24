@@ -1,7 +1,7 @@
 # Gulp sass+browser-sync
 ### Dependences
-* Installed NPM https://nodejs.org/
-* Global installed Gulp-cli 'npm install -g gulp-cli'
+* Installed NPM [Node.js website](https://nodejs.org/ "Node.js") 
+* Global installed Gulp-cli `npm install -g gulp-cli`
 ### Install dev dependencies
 `npm install`
 ### Start dev server
